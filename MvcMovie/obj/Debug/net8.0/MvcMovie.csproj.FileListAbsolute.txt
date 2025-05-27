@@ -295,3 +295,4 @@ D:\ST CLAIR\SEM 02\CYB206-25S-001 WEB APPLICATION SECURITY Spring 2025 - 001\Pro
 D:\ST CLAIR\SEM 02\CYB206-25S-001 WEB APPLICATION SECURITY Spring 2025 - 001\Project\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 D:\ST CLAIR\SEM 02\CYB206-25S-001 WEB APPLICATION SECURITY Spring 2025 - 001\Project\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 D:\ST CLAIR\SEM 02\CYB206-25S-001 WEB APPLICATION SECURITY Spring 2025 - 001\Project\MvcMovie\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+D:\ST CLAIR\SEM 02\CYB206-25S-001 WEB APPLICATION SECURITY Spring 2025 - 001\Project\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
