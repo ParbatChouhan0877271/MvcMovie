@@ -11,6 +11,7 @@ public class Movie
     [Display(Name = "Release Date")]
     public DateTime ReleaseDate { get; set; }
     public string? Genre { get; set; }
+    //Added this column type
     [Column(TypeName = "decimal(18, 2)")]
     public decimal Price { get; set; }
 }
