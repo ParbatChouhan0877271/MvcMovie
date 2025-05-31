@@ -1,6 +1,7 @@
 ﻿2025-05-06 
 1120  // ISO 8601 date system
 Created a new .NET 8.0.45 MVC project using Visual Studio
+Localhost URL https://localhost:7223/
 
 1145  
 Verified project runs successfully in development.
@@ -47,4 +48,36 @@ Prepared for database integration using Entity Framework Core. Create Migartion 
 
 1010
 Tested the CRUD operation in localhost and it went well.
+
+2025-05-26
+18:05 
+Create a new class named SeedData in the Models folder and Add the seed initializer in Program.cs 
+
+1830
+Test the changes in localhost. The app shows the seeded data. It went well.
+
+1840
+DataAnnotations added in the movie.ca like placeholder and datatype.
+
+1850
+Tested the form edit the data and getting validation if i leave blank. went well.
+
+1905
+Create a GitHub account, then sign in to GitHub within Visual Studio using your credentials.
+After logging in, choose or create a repository. Once your code is ready, use Visual Studio to push your changes to the 
+remote repository and pull updates when needed.
+
+1930
+added a new search filter to search the data and uodated controller.
+Tested woth localhost.....working fine.
+
+2000
+Added new column rating in Movie modela and added data in SeedData and also updated Create and Edit view page/
+Test and delete all data...Refresh
+
+2005
+20250527135320_Rating Rating migration added and update the db.
+
+2010
+Again rebuild and tested and it's working fine.
 
